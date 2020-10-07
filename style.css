@@ -1,0 +1,73 @@
+.container{
+max-width: 960px;
+margin: 0 auto;
+background: #2E2F38;
+font-size: 24px;
+padding: 25px;
+}
+.parallax {
+    min-height: 300px;
+    background: transparent;
+}
+.pbackground{
+background: #8A221C;
+}
+
+
+/* Full-width inputs */
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+/* Add a hover effect for buttons */
+button:hover {
+    opacity: 0.8;
+}
+
+.list {
+    font-family:sans-serif;
+    margin:0;
+    padding:20px 0 0;
+    }
+    
+    .list > li {
+    display:block;
+    background-color: #eee;
+    padding:10px;
+    padding-bottom:5px;
+    box-shadow: inset 0 1px 0 #fff;
+    }
+    
+    ul li a {
+     display:block;
+    }
+    
+    .list li:hover {
+        background:#C0C0C0 ;
+    }
+
+    submit {
+        background-color: #4CAF50;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        cursor: pointer;
+        width: 100%;
+    }
